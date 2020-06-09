@@ -4,3 +4,4 @@ Middleware Api code for Track App
 - ExpressAPI is used for it.
 - This code is also helpful for validation.
 - Use ngrok to run on local machine.
+- Command to run project npm run dev
